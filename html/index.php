@@ -14,7 +14,7 @@
   include "serviceArea.php";
   include "carousel.php";
   include "bestPricing.php";
-  include "pricingCard.php";
+  include "pricingCard.php"; // PENDIENTE
   include "ourCustomer.php";
   include "available.php";
   include "saySomething.php";

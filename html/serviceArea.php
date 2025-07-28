@@ -5,7 +5,7 @@
       <div class="row d-flex justify-content-center">
         <div class="col-lg-6">
           <div class="section-tittle text-center">
-            <h2>How Can We HelpYour<br>with AppCo!</h2>
+            <h2><?= TITLE_SERVICE_AREA;?></h2>
           </div>
         </div>
       </div>
@@ -17,8 +17,8 @@
               <span class="flaticon-businessman"></span>
             </div>
             <div class="service-cap">
-              <h4><a href="#">Easily Manage</a></h4>
-              <p>Sorem spsum dolor sit amsectetur adipisclit, seddo eiusmod tempor incididunt ut laborea.</p>
+              <h4><a href="#"><?= TITLE_SERVICE_CAP;?></a></h4>
+              <p><?= P_SERVICE_CAP;?></p>
             </div>
           </div>
         </div>
@@ -28,8 +28,8 @@
               <span class="flaticon-pay"></span>
             </div>
             <div class="service-cap">
-              <h4><a href="#">Get Payments Easily</a></h4>
-              <p>Sorem spsum dolor sit amsectetur adipisclit, seddo eiusmod tempor incididunt ut laborea.</p>
+              <h4><a href="#"><?= TITLE_SERVICE_CAP;?></a></h4>
+              <p><?= P_SERVICE_CAP;?></p>
             </div>
           </div>
         </div>
@@ -39,8 +39,8 @@
               <span class="flaticon-plane"></span>
             </div>
             <div class="service-cap">
-              <h4><a href="#">Quick Messaging</a></h4>
-              <p>Sorem spsum dolor sit amsectetur adipisclit, seddo eiusmod tempor incididunt ut laborea.</p>
+              <h4><a href="#"><?= TITLE_SERVICE_CAP;?></a></h4>
+              <p><?= P_SERVICE_CAP;?></p>
             </div>
           </div>
         </div>
@@ -48,3 +48,4 @@
     </div>
   </section>
   <!-- Services Area End -->
+

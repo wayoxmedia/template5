@@ -5,8 +5,8 @@
         <div class="col-xl-5 col-lg-6">
           <div class="app-caption">
             <div class="section-tittle section-tittle3">
-              <h2>Our App Available For Any Device Download now</h2>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fug.</p>
+              <h2><?= TITLE_AVAILABLE;?></h2>
+              <p><?= P_APP_AVAILABLE;?></p>
               <div class="app-btn">
                 <a href="#" class="app-btn1"><img src="assets/img/shape/app_btn1.png" alt=""></a>
                 <a href="#" class="app-btn2"><img src="assets/img/shape/app_btn2.png" alt=""></a>

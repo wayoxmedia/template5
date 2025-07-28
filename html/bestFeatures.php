@@ -7,7 +7,7 @@
           <div class="row">
             <div class="col-lg-10 col-md-10">
               <div class="section-tittle">
-                <h2>Some of the best features Of Our App!</h2>
+                <h2><?= TITLE_BEST_FEATURES;?></h2>
               </div>
             </div>
           </div>
@@ -19,8 +19,8 @@
                   <span class="flaticon-support"></span>
                 </div>
                 <div class="features-caption">
-                  <h3>Easy to Customize</h3>
-                  <p>Aorem psum olorsit amet ectetur adipiscing elit, sed dov.</p>
+                  <h3><?= TITLE_FEATURES_CAPTION;?></h3>
+                  <p><?= P_FEATURES_CAPTION;?></p>
                 </div>
               </div>
             </div>
@@ -30,8 +30,8 @@
                   <span class="flaticon-support"></span>
                 </div>
                 <div class="features-caption">
-                  <h3>Extreme Security</h3>
-                  <p>Aorem psum olorsit amet ectetur adipiscing elit, sed dov.</p>
+                  <h3><?= TITLE_FEATURES_CAPTION;?></h3>
+                  <p><?= P_FEATURES_CAPTION;?></p>
                 </div>
               </div>
             </div>
@@ -41,8 +41,8 @@
                   <span class="flaticon-support"></span>
                 </div>
                 <div class="features-caption">
-                  <h3>Customer Support</h3>
-                  <p>Aorem psum olorsit amet ectetur adipiscing elit, sed dov.</p>
+                  <h3><?= TITLE_FEATURES_CAPTION;?></h3>
+                  <p><?= P_FEATURES_CAPTION;?></p>
                 </div>
               </div>
             </div>
@@ -52,8 +52,8 @@
                   <span class="flaticon-support"></span>
                 </div>
                 <div class="features-caption">
-                  <h3>Creative Design</h3>
-                  <p>Aorem psum olorsit amet ectetur adipiscing elit, sed dov.</p>
+                  <h3><?= TITLE_FEATURES_CAPTION;?></h3>
+                  <p><?= P_FEATURES_CAPTION;?></p>
                 </div>
               </div>
             </div>
@@ -67,3 +67,4 @@
     </div>
   </section>
   <!-- Best Features End -->
+   

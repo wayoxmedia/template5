@@ -4,12 +4,12 @@
       <div class="row justify-content-between align-items-center">
         <div class="offset-xl-1 offset-lg-1 col-xl-5 col-lg-5">
           <div class="say-something-cap">
-            <h2>Say Hello To The Collaboration Hub.</h2>
+            <h2><?= TITLE_SAY_SOMETHING;?></h2>
           </div>
         </div>
         <div class="col-xl-2 col-lg-3">
           <div class="say-btn">
-            <a href="#" class="btn radius-btn">Contact Us</a>
+            <a href="#" class="btn radius-btn"><?= TXT_CONTATC_US;?></a>
           </div>
         </div>
       </div>

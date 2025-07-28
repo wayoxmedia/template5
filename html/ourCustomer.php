@@ -6,7 +6,7 @@
         <div class="row d-flex justify-content-center">
           <div class="col-xl-8">
             <div class="section-tittle text-center">
-              <h2>What Our Customers<br> Have to Say</h2>
+              <h2><?= TITLE_OUR_CUSTOMER;?></h2>
             </div>
           </div>
         </div>
@@ -18,9 +18,8 @@
                   <img src="assets/img/shape/man1.png" alt="">
                 </div>
                 <div class="what-cap">
-                  <h4><a href="#">Welcome To The Best Model Winner Contest</a></h4>
-                  <p>Utenim ad minim veniam quisnostrud exercitation ullamcolabor nisiut aliquip ex ea commodo consequat
-                    duis aute irure dolor in represse.</p>
+                  <h4><a href="#"><?= TITLE_WHAT_CAP;?></a></h4>
+                  <p><?= P_WHAT_CAP;?></p>
                 </div>
               </div>
 
@@ -29,9 +28,8 @@
                   <img src="assets/img/shape/man2.png" alt="">
                 </div>
                 <div class="what-cap">
-                  <h4><a href="#">Welcome To The Best Model Winner Contest</a></h4>
-                  <p>Utenim ad minim veniam quisnostrud exercitation ullamcolabor nisiut aliquip ex ea commodo consequat
-                    duis aute irure dolor in represse.</p>
+                  <h4><a href="#"><?= TITLE_WHAT_CAP;?></a></h4>
+                  <p><?= P_WHAT_CAP;?></p>
                 </div>
               </div>
 
@@ -40,9 +38,8 @@
                   <img src="assets/img/shape/man3.png" alt="">
                 </div>
                 <div class="what-cap">
-                  <h4><a href="#">Welcome To The Best Model Winner Contest</a></h4>
-                  <p>Utenim ad minim veniam quisnostrud exercitation ullamcolabor nisiut aliquip ex ea commodo consequat
-                    duis aute irure dolor in represse.</p>
+                  <h4><a href="#"><?= TITLE_WHAT_CAP;?></a></h4>
+                  <p><?= P_WHAT_CAP;?></p>
                 </div>
               </div>
 
@@ -51,9 +48,8 @@
                   <img src="assets/img/shape/man2.png" alt="">
                 </div>
                 <div class="what-cap">
-                  <h4><a href="#">Welcome To The Best Model Winner Contest</a></h4>
-                  <p>Utenim ad minim veniam quisnostrud exercitation ullamcolabor nisiut aliquip ex ea commodo consequat
-                    duis aute irure dolor in represse.</p>
+                  <h4><a href="#"><?= TITLE_WHAT_CAP;?></a></h4>
+                  <p><?= P_WHAT_CAP;?></p>
                 </div>
               </div>
 

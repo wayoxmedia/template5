@@ -5,7 +5,7 @@
       <div class="row d-flex justify-content-center">
         <div class="col-lg-6 col-md-8">
           <div class="section-tittle section-tittle2 text-center">
-            <h2>Choose Your Very Best Pricing Plan.</h2>
+            <h2><?= TITLE_BEST_PRICING;?></h2>
           </div>
         </div>
       </div>

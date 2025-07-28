@@ -5,9 +5,8 @@
         <!-- slider Heading -->
         <div class="col-xl-4 col-lg-4 col-md-8">
           <div class="single-cases-info mb-30">
-            <h3>Applic Apps<br> Screenshot</h3>
-            <p>Lorem ipsum dolor sit amet, consecadipiscing elit, sed do eiusmod tempor incididunt ut ore et dolore
-              magna aliqua. Quis ipsum suspendisse gravida. Risus commodo viverra maecenasan lacus vel facilisis. </p>
+            <h3><?= TITLE_CAROUSEL;?></h3>
+            <p><?= P_CAROUSEL_APP;?> </p>
           </div>
         </div>
         <!-- OwL -->
